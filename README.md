@@ -1,2 +1,2 @@
-# NOM-035-Utel-M-xico
+# NOM-035-Utel-MX
 Encuesta de Acontecimientos Traumáticos Severos y Entorno Organizacional
